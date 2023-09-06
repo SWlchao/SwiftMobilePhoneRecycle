@@ -1,0 +1,63 @@
+PODS:
+  - Alamofire (5.6.2)
+  - ChameleonFramework (2.1.0):
+    - ChameleonFramework/Default (= 2.1.0)
+  - ChameleonFramework/Default (2.1.0)
+  - Charts (4.1.0):
+    - Charts/Core (= 4.1.0)
+  - Charts/Core (4.1.0):
+    - SwiftAlgorithms (~> 1.0)
+  - DeviceKit (5.0.0)
+  - FSCalendar (2.8.4)
+  - HGCircularSlider (2.2.0)
+  - RxCocoa (6.5.0):
+    - RxRelay (= 6.5.0)
+    - RxSwift (= 6.5.0)
+  - RxRelay (6.5.0):
+    - RxSwift (= 6.5.0)
+  - RxSwift (6.5.0)
+  - SwiftAlgorithms (1.0.0)
+  - SwiftyJSON (5.0.1)
+
+DEPENDENCIES:
+  - Alamofire
+  - ChameleonFramework
+  - Charts
+  - DeviceKit
+  - FSCalendar
+  - HGCircularSlider
+  - RxCocoa
+  - RxSwift
+  - SwiftyJSON
+
+SPEC REPOS:
+  https://mirrors.tuna.tsinghua.edu.cn/git/CocoaPods/Specs.git:
+    - Charts
+    - DeviceKit
+    - HGCircularSlider
+    - SwiftAlgorithms
+  trunk:
+    - Alamofire
+    - ChameleonFramework
+    - FSCalendar
+    - RxCocoa
+    - RxRelay
+    - RxSwift
+    - SwiftyJSON
+
+SPEC CHECKSUMS:
+  Alamofire: d368e1ff8a298e6dde360e35a3e68e6c610e7204
+  ChameleonFramework: d21a3cc247abfe5e37609a283a8238b03575cf64
+  Charts: 354f86803d11d9c35de280587fef50d1af063978
+  DeviceKit: 0fd016a2cb67aca17c33dc23171cac270131eb88
+  FSCalendar: 2d1d0d9398f12d439f55c1fe0f01525b151b8260
+  HGCircularSlider: afb1942743a2df156dcc7a3500216e523e14266b
+  RxCocoa: 94f817b71c07517321eb4f9ad299112ca8af743b
+  RxRelay: 1de1523e604c72b6c68feadedd1af3b1b4d0ecbd
+  RxSwift: 5710a9e6b17f3c3d6e40d6e559b9fa1e813b2ef8
+  SwiftAlgorithms: 38dda4731d19027fdeee1125f973111bf3386b53
+  SwiftyJSON: 2f33a42c6fbc52764d96f13368585094bfd8aa5e
+
+PODFILE CHECKSUM: afd07d10394f1a669f1bbebdddd6b40330823530
+
+COCOAPODS: 1.11.3
